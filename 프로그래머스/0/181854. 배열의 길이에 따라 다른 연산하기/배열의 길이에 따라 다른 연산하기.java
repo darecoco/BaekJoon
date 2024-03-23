@@ -1,3 +1,5 @@
+// 친구한테 추천받은 if문 없이 코테 풀기 :)
+
 class Solution {
     public int[] solution(int[] arr, int n) {
         int[] answer = {};
